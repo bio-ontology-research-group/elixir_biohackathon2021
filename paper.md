@@ -20,7 +20,7 @@ authors:
     orcid: 0000-0003-0449-9884
     affiliation: 6, 7
   - name: Leyla Jael Castro
-    orcid: 
+    orcid: 0000-0003-3986-0510
     affiliation: 2
   - name: Maxat Kulmanov
     orcid: 0000-0003-1710-1820
